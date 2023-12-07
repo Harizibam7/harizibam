@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harizibam/static/css/main.e445fb4e.css",
+    "main.js": "/harizibam/static/js/main.651ab7d4.js",
+    "static/js/787.d9a20797.chunk.js": "/harizibam/static/js/787.d9a20797.chunk.js",
+    "index.html": "/harizibam/index.html",
+    "main.e445fb4e.css.map": "/harizibam/static/css/main.e445fb4e.css.map",
+    "main.651ab7d4.js.map": "/harizibam/static/js/main.651ab7d4.js.map",
+    "787.d9a20797.chunk.js.map": "/harizibam/static/js/787.d9a20797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e445fb4e.css",
+    "static/js/main.651ab7d4.js"
+  ]
+}
