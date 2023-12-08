@@ -87,7 +87,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-slate-200"
-              href="https://github.com/ismaelmiah"
+              href="https://github.com/Harizibam7"
               target="_blank"
               rel="noreferrer"
             >
@@ -146,7 +146,7 @@ const Header = () => {
           <li className="mr-5 text-xs">
             <a
               className="block hover:text-slate-200"
-              href="https://www.linkedin.com/in/ismaelmiah/"
+              href="https://www.linkedin.com/in/harizibam-v-0a1281243/"
               target="_blank"
               rel="noreferrer"
             >
